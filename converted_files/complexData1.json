@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Alice",
+    "age": "30",
+    "city": "New York",
+    "occupation": "Sales Manager",
+    "reportee": {
+      "name": "Diana",
+      "age": "24",
+      "city": "New York",
+      "occupation": "Sales Intern"
+    }
+  },
+  {
+    "name": "Bob",
+    "age": "25",
+    "city": "Los Angeles",
+    "occupation": "Software Developer"
+  },
+  {
+    "name": "Catrina",
+    "age": "29",
+    "city": "Florida",
+    "occupation": "HR"
+  }
+]

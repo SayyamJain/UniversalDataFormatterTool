@@ -1,0 +1,18 @@
+{
+  "name": "Chris",
+  "age": 23,
+  "address": {
+    "city": "New York",
+    "country": "America"
+  },
+  "friends": [
+    {
+      "name": "Emily",
+      "hobbies": ["biking", "music", "gaming"]
+    },
+    {
+      "name": "John",
+      "hobbies": ["soccer", "gaming"]
+    }
+  ]
+}
